@@ -29,7 +29,7 @@ This project is a Spring Boot implementation of the backend APIs for a ticket bo
 ## Getting Started
 To set up the project on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Amit8127/Book-My-Show.git`
+1. Clone the repository: `git clone https://github.com/sanu2708/BookMyShow`
 2. Navigate to the project directory: `cd book-my-show`
 3. Configure the database settings in `application.properties` file.
 4. Build the project using Maven: `mvn clean install`
